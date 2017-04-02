@@ -1,0 +1,17 @@
+Add:
+Line 100 code starts 
+The worst case in my code would be to add to the very last element.
+so the number of iterations would be 
+c1+c2+c3+c4(n+1)+c5(n)+c6(n)+c7+c8+c9;
+
+Remove :
+Line 151 
+The worst case again would be the removing the very last element.
+
+c1+c2+c3(n+1)+c4(n)+c5(n)+c6(n)+c7+c8+c9;
+
+
+Get:
+Similarly getting the last element would take the most iterations,
+Line 177
+c1+c2+c3+c4(n+1)+c5(n)+c6(n)+c7;
